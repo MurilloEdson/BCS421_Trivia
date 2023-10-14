@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BSC421_Homework5</string>
+    <string name="question_1">What was the ultimate destination for most travelers of the Underground Railroad?</string>
+    <string name="question_2">What name was given to people who made illegal booze during prohibition?</string>
+    <string name="question_3">The Winter Olympics Games were first held in which country?</string>
+    <string name="question_4">What nickname was given to Al Capone?</string>
+    <string name="question_5">What is the best-known invention of Nobel Prize founder Alfred Nobel?</string>
+    <string name="question_6">Which saint is said to have landed in Ireland in 432 AD?</string>
+    <string name="question_7">What year did Napoleon become King of Italy?</string>
+    <string name="answer1">Canada</string>
+    <string name="answer2">Bootleggers</string>
+    <string name="answer3">France</string>
+    <string name="answer4">Scarface</string>
+    <string name="answer5">Dynamite</string>
+    <string name="answer6">St.Patrick</string>
+    <string name="answer7">1850</string>
+    <string name="correct">You got that question correct!</string>
+    <string name="incorrect">You did not get that question correct :(</string>
+</resources>
